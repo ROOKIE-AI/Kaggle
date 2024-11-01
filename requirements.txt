@@ -16,15 +16,11 @@ plotly
 
 # 日志库  
 loguru        # 方便的日志记录库  
-logging       # Python 内置日志库  
-rich          # 美观的控制台输出，包括日志和进度条  
 
 # 进度条库  
 tqdm    
-progress       
 
 # 其他实用库  
-jupyter       # Jupyter Notebook  
 statsmodels   # 统计建模  
 xgboost       # XGBoost  
 lightgbm      # LightGBM  
