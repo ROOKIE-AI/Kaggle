@@ -21,6 +21,7 @@ loguru        # 方便的日志记录库
 tqdm    
 
 # 其他实用库  
+d2l
 statsmodels   # 统计建模  
 xgboost       # XGBoost  
 lightgbm      # LightGBM  
